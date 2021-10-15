@@ -6,3 +6,10 @@ and plan a proper workout for the user .
 The app will ask from the user the correct time he or she wants to exercise and remind the user on that time and days.
 The app will also remind the user to drink proper amount of water and will ask the user to input each time 
 he or she has a glass of water to keep  a track of water intake.
+
+PROJECT FUNCTIONS
+The app will take data from the user such as : Age, height , gender, weight.
+The app would create a workout plan based on the data given by the user.
+The app will ask the user for a time when he or she would like to workout and remind him or her at that time.
+The app will also help the users keep a track of their diet and calorie intake.
+The app will remind the users to drink water  and ask them to input the number of glasses each time they drink water.
