@@ -1,0 +1,8 @@
+PROJECT INTRODUCTION
+I want to make a fitness app. 
+The app will first take information from the user like name, age, gender, height and weight.
+After, the user completes entering the information , the app will determine the requirements of the user
+and plan a proper workout for the user .
+The app will ask from the user the correct time he or she wants to exercise and remind the user on that time and days.
+The app will also remind the user to drink proper amount of water and will ask the user to input each time 
+he or she has a glass of water to keep  a track of water intake.
