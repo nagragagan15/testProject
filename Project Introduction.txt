@@ -1,3 +1,5 @@
+Gagandeep Kaur
+100409806
 PROJECT INTRODUCTION
 I want to make a fitness app. 
 The app will first take information from the user like name, age, gender, height and weight.
